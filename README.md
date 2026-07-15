@@ -65,7 +65,7 @@ Weight was the most complete and reliable metric in the dataset. Body compositio
 
 ## Dashboard
 
-![Dashboard Screenshot](dashboard_sc.png)
+![Dashboard Screenshot](Tableau/dashboard_sc.png)
 
 ## Final Takeaway
 
